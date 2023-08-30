@@ -1,4 +1,3 @@
-
 # SL-Support-Vector
 
 ## **Project Title** : Using the Support Vector Mechanism algorithm of supervised machine learning , predict iris.csv dataset to find out whether the species is different or same
