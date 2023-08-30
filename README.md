@@ -1,4 +1,3 @@
-# GitHub Profile : https://github.com/Whidevil
 
 # SL-Support-Vector
 
